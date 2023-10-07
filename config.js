@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Nhi Nhi",
-    introTitle: 'Nhi',
+    titleWeb: "Uyn Uyn",
+    introTitle: 'Tố Uynnn',
     introDesc: `Ngay khi cậu nhìn thấy dòng chữ vô tri này, Vũ trụ đang nói với tui rằng hãy nhắc người đẹp đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
     btnIntro: 'Tiếp nào',
     title: 'heyy heyy người đẹp, cậu đã có một ngày dài và mệt mỏi, đã đến lúc hãy tạm quên mọi chuyện mà đi nghỉ ngơi đi nhen🌙',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Đó là những gì một cô géi ngoan nên làm:))',
     messDesc: 'Mai mua cho ly sữa:))',
     btnAccept: 'Ok luôn nà',
-    messLink: 'https://www.youtube.com/watch?v=VbtVgQn_Zkk' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://youtube.com/watch?v=i25jhndc_Z8&si=mEqJUE09Z19KDqNb' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
