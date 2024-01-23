@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Đó là những gì một cô géi ngoan nên làm:))',
     messDesc: 'Mai mua cho ly sữa:))',
     btnAccept: 'Ok luôn nà',
-    messLink: 'https://youtube.com/watch?v=i25jhndc_Z8&si=mEqJUE09Z19KDqNb' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.youtube.com/watch?v=9TSPbfbJUkQ' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
