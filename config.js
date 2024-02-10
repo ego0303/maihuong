@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "tange.rinee_",
-    introTitle: 'Tuyết Anh',
-    introDesc: `Ngay khi em nhìn thấy dòng chữ vô tri này, Vũ trụ đang nói với tui rằng hãy nhắc người đẹp đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
+    titleWeb: "Li Li",
+    introTitle: 'Bé Li',
+    introDesc: `Ngay khi cậu nhìn thấy dòng chữ vô tri này, Vũ trụ đang nói với tui rằng hãy nhắc người đẹp đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
     btnIntro: 'Tiếp nào',
     title: 'heyy heyy người đẹp, cậu đã có một ngày dài và mệt mỏi, đã đến lúc hãy tạm quên mọi chuyện mà đi nghỉ ngơi đi nhen🌙',
     desc: 'Nếu đọc được đến dòng này thì đi ngủ đi, hết văn chương để viết ời :))',
