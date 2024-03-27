@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Trà My",
-    introTitle: 'Trà My',
+    titleWeb: "Minh Ngọc",
+    introTitle: 'Minh Ngọc',
     introDesc: `Ngay khi người đẹp nhìn thấy dòng chữ vô tri này, Vũ trụ đang nói với tui rằng hãy nhắc người đẹp đặt điện thoại xuống, tắt đèn và đi ngủ đi.`,
     btnIntro: 'Tiếp nào',
     title: 'heyy heyy người đẹp, em đã có một ngày dài và mệt mỏi, đã đến lúc hãy tạm quên mọi chuyện mà đi nghỉ ngơi đi nhen🌙',
