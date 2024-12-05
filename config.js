@@ -9,5 +9,5 @@ const CONFIG = {
     question: 'Tui biết mấy  bất lực lắm mới bấm nút đi ngủ chứ gì, biết hết!!😏',
     reply: 'Đi ngủ đi ngủ không ngủ cũng tắt điện thoại mà lên giường nằm😌😌',
     mess: 'Đó là những gì một cô géi ngoan nên làm:))',
-    messLink: 'https://www.youtube.com/watch?v=9TSPbfbJUkQ'
+    messLink: 'https://youtu.be/gq5rusq-u2s'
 }
